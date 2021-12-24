@@ -1,1 +1,1 @@
-<?php include_pnes('index.html') ?>
+<?php include_pnes('main.html') ?>
