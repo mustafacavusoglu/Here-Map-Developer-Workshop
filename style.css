@@ -1,0 +1,45 @@
+#panel {
+  width: 30vw;
+  background: #ffffff;
+  color: rgba(0, 0, 0, 0.692);
+  margin-top: 5rem;
+  display: block;
+  margin: 0 auto;
+}
+
+#mapContainer {
+  width: 64rem;
+  height: 32rem;
+  background: #39b6b3;
+  display: block;
+  margin: 0 auto;
+  border: solid 2px black;
+  margin-top: 100px;
+}
+
+#inp_div {
+  width: 100vw;
+  height: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#language {
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 0.75rem;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#inp_id {
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 0.75rem;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
