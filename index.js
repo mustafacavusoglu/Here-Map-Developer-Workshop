@@ -215,7 +215,7 @@ var onResult = function (result) {
     }
 
     document.getElementById("panel").innerHTML +=
-      "Total distance : " + summary.distance + " m";
+      "Toplam mesafe : " + summary.distance + " m";
 
     document.getElementById("panel").innerHTML +=
       "Estimated time : " + summary.travelTime.toMMSS();
